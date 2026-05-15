@@ -4,7 +4,7 @@
 - 📫 How to reach me, email: lucasgagliardi03@gmail.com
 - 😄 Pronouns: ele
 - ⚡ Fun fact: I love playing, spending time with my family and traveling.
-- 🔗 LinkedIn:(https://www.linkedin.com/in/lucas-gagliardi-57a602338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🔗 LinkedIn:(https://www.linkedin.com/in/gagliardi-lucas)
 
 
 <!---

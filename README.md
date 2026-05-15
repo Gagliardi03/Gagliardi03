@@ -1,13 +1,19 @@
-- 👋 Hi, I’m @Gagliardi03
-- 👀 I’m interested in in studying, working and learning
-- 🌱 I’m currently learning machine learning
-- 📫 How to reach me, email: lucasgagliardi03@gmail.com
-- 😄 Pronouns: ele
-- ⚡ Fun fact: I love playing, spending time with my family and traveling.
-- 🔗 LinkedIn:(https://www.linkedin.com/in/gagliardi-lucas)
+# Lucas Gagliardi
 
+Software Development Intern @ [OiKO.ai](https://oiko.ai) · Full-Stack & Applied AI
 
-<!---
-Gagliardi03/Gagliardi03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About
+Computer Science student (Estácio) building real products with AI.
+Focused on full-stack development and LLM-powered applications.
+
+## Tech
+JavaScript · TypeScript · React · Next.js · Python · LangGraph · REST APIs · Git
+
+## Currently
+- Building conversational agents and intelligent automations
+- Integrating LLMs into real business products
+- Strengthening fundamentals: backend, frontend, databases, architecture
+
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Gagliardi-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gagliardi-lucas)
+📧 lucasgagliardi03@gmail.com
